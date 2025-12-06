@@ -6,7 +6,6 @@
 
 </div>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -44,11 +43,9 @@ I enjoy working across the full stack and continuously learning new technologies
 
 ---
 
----
-
 ## 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/tarundharsanrj007" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -59,12 +56,11 @@ I enjoy working across the full stack and continuously learning new technologies
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ## ⚡ Developer Tagline
 💻 **"VibeCoder — building ideas that vibe with innovation."** ⚡
-
----
 
 ⭐️ Thanks for visiting my profile!  
 Feel free to explore my repositories and connect with me 🌟
@@ -72,5 +68,5 @@ Feel free to explore my repositories and connect with me 🌟
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tarun007-jd&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun007-jd"/>
+  <img src="https://komarev.com/ghpvc/?username=Tarun007-jd&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun007-jd"/>
 </p>
