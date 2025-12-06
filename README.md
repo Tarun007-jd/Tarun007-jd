@@ -50,11 +50,11 @@ I enjoy working across the full stack and continuously learning new technologies
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarun007-jd&layout=compact&theme=dark&hide_border=false" height="150" />
 
-</div>
+</div> -->
 
 ---
 
