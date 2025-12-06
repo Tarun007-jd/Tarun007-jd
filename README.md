@@ -44,18 +44,30 @@ I enjoy working across the full stack and continuously learning new technologies
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/tarundharsanrj007)
-- 📸 [Instagram](https://www.instagram.com/_.tarun_jd._)
-
-<!-- <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarun007-jd&layout=compact&theme=dark&hide_border=false" height="150" />
-
-</div> -->
-
 ---
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarundharsanrj007" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Tarun007-jd" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_.tarun_jd._" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+---
+
+## ⚡ Developer Tagline
+💻 **"VibeCoder — building ideas that vibe with innovation."** ⚡
+
+---
+       ⭐️ Thanks for visiting my profile!  
+Feel free to explore my repositories and connect with me 🌟
+---
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tarun007-jd&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun007-jd"/>
 </p>
