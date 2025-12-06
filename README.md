@@ -65,9 +65,12 @@ I enjoy working across the full stack and continuously learning new technologies
 💻 **"VibeCoder — building ideas that vibe with innovation."** ⚡
 
 ---
-       ⭐️ Thanks for visiting my profile!  
+
+⭐️ Thanks for visiting my profile!  
 Feel free to explore my repositories and connect with me 🌟
+
 ---
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tarun007-jd&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun007-jd"/>
 </p>
