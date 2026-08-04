@@ -204,7 +204,7 @@ focus       : Building end-to-end web applications with clean architecture
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarun007-jd&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=a78bfa&text_color=c9d1d9&ring_color=7C3AED" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarun007-jd&show_icons=true&theme=midnight-purple&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=a78bfa&text_color=c9d1d9&ring_color=7C3AED" alt="GitHub Stats"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun007-jd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
