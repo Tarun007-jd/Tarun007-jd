@@ -1,4 +1,18 @@
-# Hello, I'm Tarun Dharsan R J 👋
+<div align="center">
+
+# Hi 👋, I'm Tarun Dharsan R J
+
+### Full Stack Developer • Problem Solver • Lifelong Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Learning+Every+Single+Day;Turning+Ideas+into+Reality;Welcome+to+My+GitHub!" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tarun007-jd&label=Profile%20Views&color=blue&style=for-the-badge)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -8,65 +22,113 @@
 
 ---
 
-## 👨‍💻 About Me
-I’m a passionate developer with a strong interest in building modern, responsive, and user-friendly web applications.  
-I enjoy working across the full stack and continuously learning new technologies to sharpen my skills.
+# 🚀 About Me
+
+- 💻 Passionate Full Stack Developer
+- 🌱 Always exploring new technologies
+- 🧩 Love solving real-world problems through code
+- 🎯 Focused on writing clean, scalable and maintainable applications
+- 🚀 Always working on exciting personal projects
+- ⚡ Fun Fact: I enjoy transforming ideas into products.
 
 ---
 
-## 🌟 Portfolio
-🚀 Check out my work here:  
-👉 **[portfolio-vert-alpha-18.vercel.app](https://portfolio-vert-alpha-18.vercel.app/#home)**
+# 🌐 Portfolio
+
+### 🔗 Visit My Portfolio
+
+**https://portfolio-vert-alpha-18.vercel.app/#home**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/tarundharsanrj007" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Tarun007-jd" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_.tarun_jd._" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## ⚡ Developer Tagline
-💻 **"VibeCoder — building ideas that vibe with innovation."** ⚡
+# 📊 GitHub Statistics
 
-⭐️ Thanks for visiting my profile!  
-Feel free to explore my repositories and connect with me 🌟
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Tarun007-jd&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tarun007-jd&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun007-jd&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Tarun007-jd&theme=tokyonight&margin-w=15&no-frame=true)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&theme=tokyo-night&hide_border=true)](https://github.com/Tarun007-jd)
+
+</div>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tarun007-jd&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun007-jd"/>
+
+<a href="https://www.linkedin.com/in/tarundharsanrj007">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Tarun007-jd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_.tarun_jd._">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+## 💭 Developer Quote
+
+> **"Code with purpose. Learn with curiosity. Build without limits."**
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
