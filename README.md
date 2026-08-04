@@ -228,11 +228,7 @@ focus       : Building end-to-end web applications with clean architecture
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg" width="95%"/>
-</picture>
+![Snake Animation](https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
