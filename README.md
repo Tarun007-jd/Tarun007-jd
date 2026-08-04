@@ -49,36 +49,6 @@
 
 <div align="center">
 
-## ⟨ Featured Projects ⟩
-
-<br/>
-
-<a href="https://github.com/Tarun007-jd/ExpenseTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun007-jd&repo=ExpenseTracker&theme=midnight-purple&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=a78bfa&hide_border=true" alt="Expense Tracker"/>
-</a>
-&nbsp;
-<a href="https://github.com/Tarun007-jd/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun007-jd&repo=Portfolio&theme=midnight-purple&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=a78bfa&hide_border=true" alt="Portfolio"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Tarun007-jd/JD_Woods_E_commerce_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun007-jd&repo=JD_Woods_E_commerce_app&theme=midnight-purple&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=a78bfa&hide_border=true" alt="E-Commerce Platform"/>
-</a>
-&nbsp;
-<a href="https://github.com/Tarun007-jd/AdminDashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun007-jd&repo=AdminDashboard&theme=midnight-purple&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=a78bfa&hide_border=true" alt="Admin Dashboard"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## ⟨ Tech Stack ⟩
 
 <br/>
@@ -118,11 +88,6 @@
 
 <br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tarun007-jd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=a78bfa&text_color=c9d1d9&ring_color=7C3AED" alt="GitHub Stats"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun007-jd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&bg_color=0d1117&color=a78bfa&line=7C3AED&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
