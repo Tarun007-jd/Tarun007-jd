@@ -31,20 +31,6 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg" width="96%"/>
-  </picture>
-</p>
-
-<br/>
-
----
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -96,6 +82,10 @@
 
 ---
 
+<br/>
+
+---
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
@@ -114,6 +104,20 @@
 
 ---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg" width="96%"/>
+  </picture>
+</p>
+
+<br/>
+
+---
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
@@ -123,11 +127,23 @@
   <a href="https://www.linkedin.com/in/tarundharsanrj007">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>&nbsp;
+  <a href="https://github.com/Tarun007-jd">
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+  </a>&nbsp;
   <a href="https://www.instagram.com/_.tarun_jd._">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
   </a>&nbsp;
-  <a href="https://github.com/Tarun007-jd">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+  <a href="https://x.com/TarunDharsanRJ">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28"/>
+  </a>&nbsp;
+  <a href="https://wa.me/919442517937">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/>
+  </a>&nbsp;
+  <a href="https://t.me/+919442517937">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/tarundharsanrj/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28"/>
   </a>
 </p>
 
