@@ -108,7 +108,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tarun007-jd&theme=transparent&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="175"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun007-jd&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=8b949e&langs_count=8" height="175"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun007-jd&theme=transparent&hide_border=true" height="175"/>
 </p>
 
 <p align="center">
