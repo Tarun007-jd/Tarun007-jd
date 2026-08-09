@@ -106,13 +106,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarun007-jd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=a78bfa&text_color=8b949e&ring_color=7C3AED&include_all_commits=true&count_private=true&cache_seconds=1800" height="175"/>
+  <img src="https://streak-stats.demolab.com?user=Tarun007-jd&theme=transparent&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="175"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun007-jd&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=8b949e&langs_count=8&cache_seconds=1800" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun007-jd&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=8b949e&langs_count=8" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&bg_color=0d1117&color=a78bfa&line=7C3AED&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution+Activity&days=30" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&bg_color=0d1117&color=a78bfa&line=7C3AED&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution+Activity" width="96%"/>
 </p>
 
 <br/>
