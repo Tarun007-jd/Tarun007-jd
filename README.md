@@ -29,6 +29,18 @@
 
 <br/>
 
+<h3 align="center">📚 Quick Navigation</h3>
+
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#what-i-build">What I Build</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#github-analytics">Analytics</a> •
+  <a href="#connect-with-me">Connect</a>
+</p>
+
+<br/>
+
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
@@ -45,6 +57,7 @@
 
 ---
 
+<a id="about-me"></a>
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -65,6 +78,33 @@
 
 ---
 
+<a id="what-i-build"></a>
+<h2 align="center">🚀 What I Build</h2>
+
+<p align="center">
+  🔹 Responsive full-stack web applications with modern React-based interfaces<br/><br/>
+  🔹 RESTful backend services using Node.js + Express with clean architecture principles<br/><br/>
+  🔹 Data-driven features powered by MongoDB / MySQL with scalable schema design<br/><br/>
+  🔹 End-to-end product workflows from UI prototype to deployment and iteration
+</p>
+
+<br/>
+
+---
+
+<h2 align="center">📌 Currently Focused On</h2>
+
+<p align="center">
+  ✅ Deepening advanced React patterns and performance optimization<br/>
+  ✅ Strengthening backend reliability, API design, and deployment workflows<br/>
+  ✅ Building portfolio-grade projects with real-world usability and polish
+</p>
+
+<br/>
+
+---
+
+<a id="tech-stack"></a>
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h4 align="center">Languages</h4>
@@ -96,6 +136,7 @@
 
 ---
 
+<a id="github-analytics"></a>
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
@@ -114,6 +155,18 @@
 
 ---
 
+<h2 align="center">🤝 Collaboration</h2>
+
+<p align="center">
+  Open to collaborating on meaningful full-stack projects, frontend UX improvements,<br/>
+  and backend/API implementation where product quality and clean engineering both matter.
+</p>
+
+<br/>
+
+---
+
+<a id="connect-with-me"></a>
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
