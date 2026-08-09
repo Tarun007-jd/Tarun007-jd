@@ -4,26 +4,28 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=450&height=40&lines=Building+Web+Experiences;React+•+Node.js+•+MongoDB;Turning+Ideas+into+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=450&height=40&lines=Building+Web+Experiences;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Turning+Ideas+into+Apps)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://portfolio-vert-alpha-18.vercel.app/#home">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logoColor=white&labelColor=7C3AED" alt="Portfolio"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/tarundharsanrj007">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7C3AED" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://github.com/Tarun007-jd">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/_.tarun_jd._">
   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7C3AED" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
-<!-- Contribution Snake directly under Hero -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"/>
@@ -40,10 +42,14 @@
 
 </div>
 
+<br/>
+
 - I build web applications, focusing on intuitive user interfaces and reliable backend systems.
 - My approach centers on writing clean, maintainable code, whether I'm working with Java, Python, or a modern JavaScript ecosystem.
 - Before writing code, I often wireframe designs in Figma to ensure a cohesive user experience.
 - I actively experiment with new tools and frameworks to continually refine my development workflow.
+
+<br/>
 
 ---
 
@@ -53,27 +59,32 @@
 
 <br/>
 
-**Languages**<br/>
+**Languages**
+
 [![Languages](https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-**Frontend**<br/>
+**Frontend**
+
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-**Backend**<br/>
+**Backend**
+
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-**Database**<br/>
+**Database**
+
 [![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-**Tools**<br/>
+**Tools**
+
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark)](https://skillicons.dev)
 
 </div>
@@ -87,7 +98,6 @@
 ## ⟨ GitHub Analytics ⟩
 
 <br/>
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&bg_color=0d1117&color=a78bfa&line=7C3AED&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
