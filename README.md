@@ -82,21 +82,6 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br/>
-
-<div align="center">
-
-| &nbsp; | Project | Stack | Link |
-|--------|---------|-------|------|
-| 💸 | **Expense Tracker** — Personal finance dashboard with categorized logging, monthly charts & real-time sync | `React` `Node.js` `MongoDB` | [View →](https://github.com/Tarun007-jd) |
-| 🌐 | **Portfolio Website** — Animated developer portfolio with dark aesthetics & smooth scroll, live on Vercel | `React` `Tailwind CSS` `Vercel` | [Live →](https://portfolio-vert-alpha-18.vercel.app/#home) |
-| 🛒 | **E-Commerce Platform** — Full-featured store with product catalog, JWT auth & payment integration | `React` `Express` `MySQL` | [View →](https://github.com/Tarun007-jd) |
-| 📋 | **Project Management System** — Kanban boards, role-based access, deadline tracking & Firebase sync | `React` `Firebase` `Node.js` | [View →](https://github.com/Tarun007-jd) |
-
-</div>
-
 <br/>
 
 ---
