@@ -136,24 +136,11 @@
 
 ---
 
-<a id="github-analytics"></a>
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tarun007-jd&theme=transparent&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="175"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun007-jd&theme=transparent&hide_border=true" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&bg_color=0d1117&color=a78bfa&line=7C3AED&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution+Activity" width="96%"/>
-</p>
-
-<br/>
+<h2 align="center">📊 GitHub Analytics</h2> <br/> <p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tarun007-jd&theme=transparent&hide_border=true&stroke=7C3AED&ring=7C3AED&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&background=0d1117" height="175"/> &nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun007-jd&theme=transparent&hide_border=true" height="175"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&bg_color=0d1117&color=a78bfa&line=7C3AED&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution+Activity" width="96%"/> </p> <br/>
 
 ---
+
+<br/>
 
 <h2 align="center">🤝 Collaboration</h2>
 
