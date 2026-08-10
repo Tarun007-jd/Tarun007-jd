@@ -47,9 +47,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg" width="96%"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"
+      width="96%"
+    />
   </picture>
 </p>
 
@@ -58,6 +68,7 @@
 ---
 
 <a id="about-me"></a>
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -79,6 +90,7 @@
 ---
 
 <a id="what-i-build"></a>
+
 <h2 align="center">🚀 What I Build</h2>
 
 <p align="center">
@@ -105,29 +117,35 @@
 ---
 
 <a id="tech-stack"></a>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h4 align="center">Languages</h4>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" height="42"/>
 </p>
 
 <h4 align="center">Frontend</h4>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" height="42"/>
 </p>
 
 <h4 align="center">Backend</h4>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="42"/>
 </p>
 
 <h4 align="center">Database</h4>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" height="42"/>
 </p>
 
 <h4 align="center">Tools & Platforms</h4>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" height="42"/>
 </p>
@@ -137,6 +155,7 @@
 ---
 
 <a id="github-analytics"></a>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
@@ -153,15 +172,13 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&bg_color=0d1117&color=a78bfa&line=7C3AED&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity"
-    width="96%"
-  />
-</p>
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&bg_color=0d1117&color=a78bfa&line=7C3AED&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution+Activity" width="96%"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun007-jd&theme=github_dark"
+    width="96%"
+  />
 </p>
 
 <br/>
@@ -180,30 +197,38 @@
 ---
 
 <a id="connect-with-me"></a>
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://portfolio-vert-alpha-18.vercel.app/#home">
     <img src="https://img.shields.io/badge/%E2%97%88%20Portfolio-7C3AED?style=for-the-badge&logoColor=white" height="28"/>
   </a>&nbsp;
+
   <a href="https://www.linkedin.com/in/tarundharsanrj007">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>&nbsp;
+
   <a href="https://github.com/Tarun007-jd">
     <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="28"/>
   </a>&nbsp;
+
   <a href="https://www.instagram.com/_.tarun_jd._">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
   </a>&nbsp;
+
   <a href="https://x.com/TarunDharsanRJ">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28"/>
   </a>&nbsp;
+
   <a href="https://wa.me/919442517937">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/>
   </a>&nbsp;
+
   <a href="https://t.me/+919442517937">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"/>
   </a>&nbsp;
+
   <a href="https://leetcode.com/u/tarundharsanrj/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28"/>
   </a>
@@ -212,12 +237,20 @@
 <br/>
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i><br/><br/>
-  <sub>Crafted with intention by <b>Tarun Dharsan R J</b> &nbsp;·&nbsp; Thanks for visiting.</sub>
+  <i>"First, solve the problem. Then, write the code."</i>
+  <br/><br/>
+  <sub>
+    Crafted with intention by <b>Tarun Dharsan R J</b>
+    &nbsp;·&nbsp;
+    Thanks for visiting.
+  </sub>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0533,70:0d1b3e,100:0d0d1a&height=110&section=footer" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0533,70:0d1b3e,100:0d0d1a&height=110&section=footer"
+    width="100%"
+  />
 </p>
