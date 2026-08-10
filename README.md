@@ -29,8 +29,35 @@
 
 <br/>
 
+<h3 align="center">📚 Quick Navigation</h3>
+
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#what-i-build">What I Build</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#github-analytics">Analytics</a> •
+  <a href="#connect-with-me">Connect</a>
+</p>
+
+<br/>
+
 ---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg" width="96%"/>
+  </picture>
+</p>
+
+<br/>
+
+---
+
+<a id="about-me"></a>
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -51,6 +78,33 @@
 
 ---
 
+<a id="what-i-build"></a>
+<h2 align="center">🚀 What I Build</h2>
+
+<p align="center">
+  🔹 Responsive full-stack web applications with modern React-based interfaces<br/><br/>
+  🔹 RESTful backend services using Node.js + Express with clean architecture principles<br/><br/>
+  🔹 Data-driven features powered by MongoDB / MySQL with scalable schema design<br/><br/>
+  🔹 End-to-end product workflows from UI prototype to deployment and iteration
+</p>
+
+<br/>
+
+---
+
+<h2 align="center">📌 Currently Focused On</h2>
+
+<p align="center">
+  ✅ Deepening advanced React patterns and performance optimization<br/>
+  ✅ Strengthening backend reliability, API design, and deployment workflows<br/>
+  ✅ Building portfolio-grade projects with real-world usability and polish
+</p>
+
+<br/>
+
+---
+
+<a id="tech-stack"></a>
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h4 align="center">Languages</h4>
@@ -82,16 +136,13 @@
 
 ---
 
-<br/>
-
----
-
+<a id="github-analytics"></a>
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun007-jd&theme=transparent&hide_border=true" height="175"/>
+  <img src="https://streak-stats.demolab.com?user=Tarun007-jd&theme=transparent&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="175"/>
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun007-jd&theme=transparent&hide_border=true" height="175"/>
 </p>
@@ -104,20 +155,18 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🤝 Collaboration</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg" width="96%"/>
-  </picture>
+  Open to collaborating on meaningful full-stack projects, frontend UX improvements,<br/>
+  and backend/API implementation where product quality and clean engineering both matter.
 </p>
 
 <br/>
 
 ---
 
+<a id="connect-with-me"></a>
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
