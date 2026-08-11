@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0533,70:0d1b3e,100:0d0d1a&height=220&section=header&text=Tarun%20Dharsan%20R%20J&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=18&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
 </p>
-dfbvdsbdbd  dnfvb mnd
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=480&height=28&lines=React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Express.js;Figma+%E2%86%92+Code+%E2%86%92+Deployed+Product;Building+Clean%2C+Scalable+Web+Apps" alt="Typing SVG" />
