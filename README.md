@@ -60,6 +60,10 @@ with clean architecture, sharp interfaces, and reliable backend systems that sca
 
 <br>
 
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"/>
@@ -83,7 +87,11 @@ with clean architecture, sharp interfaces, and reliable backend systems that sca
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&bg_color=0d1117&color=a78bfa&line=7C3AED&point=c9b8ff&area=true&hide_border=true&custom_title=Contribution+Activity&radius=6" width="97%"/>
+<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
+
+<br><br>
+
+<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
 
 </div>
 
