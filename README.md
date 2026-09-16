@@ -78,6 +78,7 @@
 ---
 
 <a id="about-me"></a>
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -99,6 +100,7 @@
 ---
 
 <a id="what-i-build"></a>
+
 <h2 align="center">🚀 What I Build</h2>
 
 <p align="center">
@@ -125,36 +127,57 @@
 ---
 
 <a id="tech-stack"></a>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h4 align="center">Languages</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" height="42" alt="Languages"/>
+  <img
+    src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark"
+    height="42"
+    alt="Languages"
+  />
 </p>
 
 <h4 align="center">Frontend</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" height="42" alt="Frontend"/>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"
+    height="42"
+    alt="Frontend"
+  />
 </p>
 
 <h4 align="center">Backend</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="42" alt="Backend"/>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"
+    height="42"
+    alt="Backend"
+  />
 </p>
 
 <h4 align="center">Database</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" height="42" alt="Database"/>
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"
+    height="42"
+    alt="Database"
+  />
 </p>
 
 <h4 align="center">Tools & Platforms</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" height="42" alt="Tools"/>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"
+    height="42"
+    alt="Tools"
+  />
 </p>
 
 <br/>
@@ -162,6 +185,7 @@
 ---
 
 <a id="github-analytics"></a>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
@@ -170,13 +194,13 @@
   <img
     src="https://streak-stats.demolab.com/?user=Tarun007-jd&theme=dark&hide_border=true&stroke=7C3AED&ring=7C3AED&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"
     height="175"
-    alt="Streak Stats"
+    alt="GitHub Streak"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Tarun007-jd&show_icons=true&theme=dark&hide_border=true&title_color=7C3AED&text_color=8b949e&icon_color=a78bfa"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun007-jd&theme=transparent&hide_border=true"
     height="175"
-    alt="GitHub Stats"
+    alt="Top Languages by Repository"
   />
 </p>
 
@@ -196,33 +220,18 @@
 ---
 
 <a id="connect-with-me"></a>
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://portfolio-vert-alpha-18.vercel.app/#home">
-    <img src="https://img.shields.io/badge/%E2%97%88%20Portfolio-7C3AED?style=for-the-badge&logoColor=white" height="28" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/tarundharsanrj007">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://github.com/Tarun007-jd">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/_.tarun_jd._">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="https://x.com/TarunDharsanRJ">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X"/>
-  </a>&nbsp;
-  <a href="https://wa.me/919442517937">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28" alt="WhatsApp"/>
-  </a>&nbsp;
-  <a href="https://t.me/+919442517937">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram"/>
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/tarundharsanrj/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28" alt="LeetCode"/>
-  </a>
+  <a href="https://portfolio-vert-alpha-18.vercel.app/#home"><img src="https://img.shields.io/badge/%E2%97%88%20Portfolio-7C3AED?style=for-the-badge&logoColor=white" height="28" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/tarundharsanrj007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/Tarun007-jd"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.instagram.com/_.tarun_jd._"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/></a>&nbsp;
+  <a href="https://x.com/TarunDharsanRJ"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X"/></a>&nbsp;
+  <a href="https://wa.me/919442517937"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28" alt="WhatsApp"/></a>&nbsp;
+  <a href="https://t.me/+919442517937"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram"/></a>&nbsp;
+  <a href="https://leetcode.com/u/tarundharsanrj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28" alt="LeetCode"/></a>
 </p>
 
 <br/>
