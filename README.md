@@ -53,6 +53,20 @@
 
 ---
 
+<h2 align="center">📅 GitHub Contribution Calendar</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/main/assets/metrics.isocalendar.svg"
+    width="96%"
+    alt="GitHub Contribution Calendar"
+  />
+</p>
+
+<br/>
+
+---
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
