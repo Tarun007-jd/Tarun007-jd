@@ -17,16 +17,32 @@
 
 <p align="center">
   <a href="https://portfolio-vert-alpha-18.vercel.app/#home">
-    <img src="https://img.shields.io/badge/%E2%97%88%20Portfolio-7C3AED?style=for-the-badge&logoColor=white" height="28" alt="Portfolio"/>
+    <img
+      src="https://img.shields.io/badge/%E2%97%88%20Portfolio-7C3AED?style=for-the-badge&logoColor=white"
+      height="28"
+      alt="Portfolio"
+    />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/tarundharsanrj007">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="28"
+      alt="LinkedIn"
+    />
   </a>&nbsp;
   <a href="https://github.com/Tarun007-jd">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"
+      height="28"
+      alt="GitHub"
+    />
   </a>&nbsp;
   <a href="https://www.instagram.com/_.tarun_jd._">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
+    <img
+      src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"
+      height="28"
+      alt="Instagram"
+    />
   </a>
 </p>
 
@@ -96,18 +112,44 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Full Stack Developer based in India, focused on building end-to-end web applications<br/>
-  with clean architecture, sharp interfaces, and reliable backend systems.
+  I'm a Computer Science & Engineering student and Full Stack Developer focused on
+  building practical,<br/>
+  scalable applications that combine clean interfaces, reliable backend systems,
+  and intelligent features.
 </p>
 
 <br/>
 
-<p align="center">
-  🎨 &nbsp;I wireframe in <b>Figma</b> before writing a single line of code — UX is never an afterthought<br/><br/>
-  ⚙️ &nbsp;I carry features from <b>schema design</b> all the way to <b>deployed UI</b> with full ownership<br/><br/>
-  🧠 &nbsp;Strong foundations in <b>Java, Python, C/C++</b> — I think in systems, not just syntax<br/><br/>
-  🚀 &nbsp;Always exploring new tools, patterns, and frameworks to sharpen my development workflow
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Development</h3>
+      Building full-stack web and mobile applications with
+      <b>React, Node.js, Express and MongoDB</b>, while focusing on
+      clean architecture and maintainable code.
+    </td>
+    <td align="center" width="50%">
+      <h3>🧠 Problem Solving</h3>
+      Strong programming foundations in <b>Java, Python, C and C++</b>,
+      with an interest in algorithms, systems and solving real-world
+      technical problems.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Design & Product</h3>
+      Using <b>Figma</b> to plan interfaces and user experiences before
+      turning ideas into functional and polished products.
+    </td>
+    <td align="center" width="50%">
+      <h3>🌱 Community & Learning</h3>
+      Actively contributing to the developer community as a
+      <b>GeeksforGeeks Campus Mantri</b> while continuously learning
+      through projects, technical programs and hands-on development.
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -118,11 +160,43 @@
 <h2 align="center">🚀 What I Build</h2>
 
 <p align="center">
-  🔹 Responsive full-stack web applications with modern React-based interfaces<br/><br/>
-  🔹 RESTful backend services using Node.js + Express with clean architecture principles<br/><br/>
-  🔹 Data-driven features powered by MongoDB / MySQL with scalable schema design<br/><br/>
-  🔹 End-to-end product workflows from UI prototype to deployment and iteration
+  I enjoy taking an idea from <b>concept → design → development → deployment</b>
+  and turning it into a usable product.
 </p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Full Stack Applications</h3>
+      Responsive web applications with modern React interfaces,
+      REST APIs, authentication, database integration and scalable
+      backend architecture.
+    </td>
+
+    <td align="center" width="50%">
+      <h3>🤖 AI-Powered Applications</h3>
+      Applications that integrate machine learning and intelligent
+      features to solve practical problems and improve user experiences.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>📱 Mobile Applications</h3>
+      Cross-platform applications using <b>React Native</b> and
+      <b>Flutter</b>, with a focus on clean UI, usability and
+      practical functionality.
+    </td>
+
+    <td align="center" width="50%">
+      <h3>⚙️ Developer Projects</h3>
+      Dashboards, utility tools, automation workflows and experimental
+      projects built to explore technologies and solve real-world problems.
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -131,9 +205,20 @@
 <h2 align="center">📌 Currently Focused On</h2>
 
 <p align="center">
-  ✅ Deepening advanced React patterns and performance optimization<br/>
-  ✅ Strengthening backend reliability, API design, and deployment workflows<br/>
-  ✅ Building portfolio-grade projects with real-world usability and polish
+  ▸ Strengthening advanced <b>React, Node.js and backend architecture</b>
+  <br/><br/>
+
+  ▸ Building production-oriented <b>full-stack and AI-powered applications</b>
+  <br/><br/>
+
+  ▸ Expanding practical skills in <b>AI/ML, cloud technologies and deployment</b>
+  <br/><br/>
+
+  ▸ Improving <b>problem solving, algorithms and software engineering fundamentals</b>
+  <br/><br/>
+
+  ▸ Contributing to the developer community through my role as a
+  <b>GeeksforGeeks Campus Mantri</b>
 </p>
 
 <br/>
@@ -144,53 +229,99 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h4 align="center">Languages</h4>
+<br/>
+
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark"
-    height="42"
-    alt="Languages"
+    height="48"
+    alt="Java Python C C++"
   />
 </p>
 
-<h4 align="center">Frontend</h4>
+<br/>
+
+<h3 align="center">🎨 Frontend</h3>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"
-    height="42"
-    alt="Frontend"
+    height="48"
+    alt="HTML CSS JavaScript React Tailwind CSS"
   />
 </p>
 
-<h4 align="center">Backend</h4>
+<br/>
+
+<h3 align="center">⚙️ Backend</h3>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"
-    height="42"
-    alt="Backend"
+    height="48"
+    alt="Node.js Express.js"
   />
 </p>
 
-<h4 align="center">Database</h4>
+<br/>
+
+<h3 align="center">📱 Mobile Development</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=flutter,react&theme=dark"
+    height="48"
+    alt="Flutter React Native"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"
-    height="42"
-    alt="Database"
+    height="48"
+    alt="MongoDB MySQL Firebase"
   />
 </p>
 
-<h4 align="center">Tools & Platforms</h4>
+<br/>
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=docker,azure&theme=dark"
+    height="48"
+    alt="Docker Azure"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">🤖 AI / ML</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"
+    height="48"
+    alt="Python TensorFlow"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"
-    height="42"
-    alt="Tools"
+    height="48"
+    alt="Git GitHub VS Code Postman Figma"
   />
 </p>
 
@@ -226,7 +357,8 @@
 
 <p align="center">
   Open to collaborating on meaningful full-stack projects, frontend UX improvements,<br/>
-  and backend/API implementation where product quality and clean engineering both matter.
+  AI-powered applications, and backend/API implementation where product quality
+  and clean engineering both matter.
 </p>
 
 <br/>
@@ -251,8 +383,13 @@
 <br/>
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i><br/><br/>
-  <sub>Crafted with intention by <b>Tarun Dharsan R J</b> &nbsp;·&nbsp; Thanks for visiting.</sub>
+  <i>"First, solve the problem. Then, write the code."</i>
+  <br/><br/>
+  <sub>
+    Crafted with intention by <b>Tarun Dharsan R J</b>
+    &nbsp;·&nbsp;
+    Thanks for visiting.
+  </sub>
 </p>
 
 <br/>
