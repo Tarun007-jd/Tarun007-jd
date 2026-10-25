@@ -1,188 +1,187 @@
 
-<!-- ==================== PROFILE HEADER ==================== -->
-
 <div align="center">
 
-  <h1>Hi there, I'm Tarun Dharsan R J 👋</h1>
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tarun%20Dharsan%20R%20J&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%" alt="Tarun Dharsan R J profile header"/>
 
-  <h3>Full Stack Developer | Computer Science & Engineering Student</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=65&lines=Building+Scalable+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+into+Real+Projects)](https://git.io/typing-svg)
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Web+Applications;Learning+Java+and+Problem+Solving;Exploring+Full+Stack+Development;Learning.+Building.+Improving." alt="Typing introduction" />
+<a href="https://portfolio-vert-alpha-18.vercel.app/#home"><img src="https://img.shields.io/badge/◈_Portfolio-7C3AED?style=for-the-badge&logoColor=white&labelColor=0f0c29" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/tarundharsanrj007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn"/></a>
+<a href="https://github.com/Tarun007-jd"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0f0c29" alt="GitHub"/></a>
+<a href="https://www.instagram.com/_.tarun_jd._"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29" alt="Instagram"/></a>
 
-  <p>
-    <a href="https://portfolio-vert-alpha-18.vercel.app/#home">Portfolio</a> •
-    <a href="https://www.linkedin.com/in/tarundharsanrj007">LinkedIn</a> •
-    <a href="https://github.com/Tarun007-jd">GitHub</a>
-  </p>
+<img src="https://komarev.com/ghpvc/?username=Tarun007-jd&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a Computer Science and Engineering student who enjoys building web applications, exploring new technologies, and turning ideas into useful projects.
+## ⟨ About Me ⟩
 
-- 💻 Developing responsive web applications and full-stack projects.
-- 🧩 Strengthening my programming skills in Java, Python, C and C++.
-- 🎨 Interested in UI design, usability and modern web experiences.
-- 🛠️ Exploring backend development, databases and application deployment.
-- 🌱 Learning through hands-on projects and continuous practice.
-- 🤝 Contributing to the developer community as a GeeksforGeeks Campus Mantri.
+</div>
+
+```yaml
+name: Tarun Dharsan R J
+role: Full Stack Developer
+focus: Web Development, Programming and Problem Solving
+currently_learning: Java and Full Stack Development
+```
+
+- 💻 Building web applications with an emphasis on clean, usable interfaces.
+- 🧠 Strengthening my programming foundations in Java, Python, C and C++.
+- 🎨 Interested in UI/UX design and modern frontend development.
+- ⚙️ Exploring backend APIs, databases and full-stack architecture.
+- 🌱 Learning by building projects and improving every day.
+- 🤝 Supporting the developer community as a GeeksforGeeks Campus Mantri.
 
 ---
 
-## 🚀 What I Build
+<div align="center">
 
-- 🌐 **Full Stack Applications** — Responsive web applications with backend APIs and database integration.
-- 🎨 **Frontend Experiences** — Interactive interfaces focused on usability and design.
-- ⚙️ **Developer Tools & Dashboards** — Useful tools that simplify everyday tasks.
-- 📱 **Mobile Applications** — Exploring mobile development with Flutter and related technologies.
+## ⟨ What I Build ⟩
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🌐 Web Applications</h3>
+Creating responsive, interactive websites with modern frontend technologies.
+</td>
+<td align="center" width="50%">
+<h3>⚙️ Full Stack Projects</h3>
+Connecting frontend experiences with APIs, server-side logic and databases.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3>🎨 UI & UX</h3>
+Designing clear, attractive interfaces with a focus on usability.
+</td>
+<td align="center" width="50%">
+<h3>🧩 Problem Solving</h3>
+Practising programming fundamentals and improving coding skills.
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Programming Languages
+## ⟨ Tech Stack ⟩
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" alt="Java, Python, C, C++, JavaScript and TypeScript" />
-</p>
+### 💻 Languages
 
-### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Programming languages"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React and Tailwind CSS" />
-</p>
+### 🎨 Frontend
 
-### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="Frontend technologies"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
-</p>
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies"/>
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="MongoDB, MySQL and Firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="Database technologies"/>
 
 ### 📱 Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter"/>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Git, GitHub, VS Code, Postman and Figma" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Tarun007-jd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun007-jd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    height="165"
-    alt="Most used programming languages"
-  />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Developer tools"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
-
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=Tarun007-jd&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub contribution streak"
-  />
+## ⟨ GitHub Analytics ⟩
+
+<br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Tarun007-jd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun007-jd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Tarun007-jd&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-  <a href="https://github.com/Tarun007-jd">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&theme=tokyo-night&hide_border=true"
-      width="96%"
-      height="220"
-      alt="GitHub contribution activity graph"
-    />
-  </a>
+## ⟨ Contribution Graph ⟩
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&theme=tokyo-night&hide_border=true" width="96%" alt="GitHub contribution activity graph"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"
-    width="90%"
-    alt="GitHub contribution snake animation"
-  />
+## ⟨ Contribution Snake ⟩
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Tarun007-jd/Tarun007-jd/output/github-snake-dark.svg" width="95%"/>
+</picture>
 
 </div>
 
 ---
 
-## 🎯 Currently Working On
+<div align="center">
 
-- 📚 Strengthening Java and programming fundamentals.
-- 💻 Building full-stack applications and improving backend skills.
-- 🧠 Practising problem-solving and writing code from scratch.
-- 🎨 Improving UI design and application usability.
-- 🚀 Exploring new tools through practical projects.
+## ⟨ Currently Focused On ⟩
+
+<table>
+<tr>
+<td>☕ Java fundamentals and coding practice</td>
+<td>🌐 Full Stack Development</td>
+</tr>
+<tr>
+<td>🧠 Problem-solving skills</td>
+<td>🎨 Better UI/UX and project design</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
-
 <div align="center">
 
-  <a href="https://portfolio-vert-alpha-18.vercel.app/#home">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/tarundharsanrj007">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Tarun007-jd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/tarundharsanrj/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.instagram.com/_.tarun_jd._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/TarunDharsanRJ">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+## ⟨ Let's Connect ⟩
 
-  <br/><br/>
+<p>Open to learning, collaboration and interesting projects.</p>
 
-  <h3>💜 Learning. Building. Improving.</h3>
+<a href="https://portfolio-vert-alpha-18.vercel.app/#home"><img src="https://img.shields.io/badge/◈_Portfolio-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/tarundharsanrj007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Tarun007-jd"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/_.tarun_jd._"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://x.com/TarunDharsanRJ"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://leetcode.com/u/tarundharsanrj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
-  Thanks for visiting my GitHub profile!
+<br/><br/>
+
+### 💜 Learn • Build • Improve
+
+<sub>Crafted with intention by <b>Tarun Dharsan R J</b></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Purple wave footer"/>
 
 </div>
