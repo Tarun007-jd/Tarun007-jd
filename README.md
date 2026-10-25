@@ -122,16 +122,6 @@ Practising programming fundamentals and improving coding skills.
 
 <div align="center">
 
-## ⟨ Contribution Graph ⟩
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarun007-jd&theme=tokyo-night&hide_border=true" width="96%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## ⟨ Contribution Snake ⟩
 
 <picture>
